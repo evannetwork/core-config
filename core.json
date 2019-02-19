@@ -19,7 +19,7 @@
     "maximumExtraDataSize": "0x20",
     "minGasLimit": "0x3938700",
     "networkID": "0xC06E",
-    "registrar": "0x4d8941fe480241ab77E40860B78475DDAf91441f",
+    "registrar": "0xB88E14514C8b5983EDBAB3c33534b75911eae302",
     "transactionPermissionContract": "0x1000000000000000000000000000000000000003",
     "eip140Transition": "0",
     "eip211Transition": "0",
@@ -44,6 +44,8 @@
     "gasLimit": "0x3938700"
   },
   "nodes": [
+    "enode://b5ce9c707e006d960aaae056d0344be00578a90cfa3e3b66b8d8696702a30f8b654f5c3cd91e0372931460dd3d3da13a70d8264ce5b7c731699889010e8af51c@35.180.217.147:30303",
+    "enode://3aeac67c62c6a8784f57c99442135c31d51aa076a7649cdb409d844cc5ef975e1bb15b909791279d48d1b122f6616db2379119731f97a0fc4c630d43447e8f45@35.180.217.147:30304"
   ],
   "accounts": {
     "0x0000000000000000000000000000000000000001": { "balance": "1", "builtin": { "name": "ecrecover", "pricing": { "linear": { "base": 3000, "word": 0 } } } },
